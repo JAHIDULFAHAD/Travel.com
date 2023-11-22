@@ -1,0 +1,8 @@
+imteaz fuad	imteaz2006
+First name :	imteaz
+Last name :	fuad
+Number :	01779192193
+Email :	imteazahammadfuad@gmail.com
+Country :	Bangladesh
+Date of Birth :	26-Jun-2006
+Gender :	Male

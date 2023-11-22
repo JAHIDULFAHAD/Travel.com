@@ -1,0 +1,17 @@
+
+From : Dhaka
+To : Chittagong
+Date of Birth : 2-Jan-2022
+Time : 8:00 am
+Bus Type : Ac
+Date of Return : 1-Dec-2023
+Time : 10:00 am
+Bus Type : Ac
+From : Cumilla
+To : Dhaka
+Date of Birth : 3-Dec-2022
+Time : 10:00 am
+Bus Type : Ac
+Date of Return : 2-Dec-2023
+Time : 10:00 am
+Bus Type : Ac

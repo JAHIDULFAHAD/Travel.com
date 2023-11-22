@@ -1,0 +1,8 @@
+
+Domestic Flight Ticket
+Departure Airport: Shahjalal International Airport
+Arrival Airport: Cox's Bazar International Airport
+Date: 5-Jun-2023
+Flight Class: 2. Premium Economy
+Adult Passenger/s: 2
+Child Passenger/s: 1
